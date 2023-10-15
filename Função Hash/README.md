@@ -16,5 +16,3 @@ Lucca Bonsi Guarreschi RA: 22.120.016-5
 | 8 | Em 2016 foi realizada a primeira edição do congresso de inovação - Megatendências 2050. | Sim | Sim | Verdadeira | Ambos os valores hash correspondem. |
 | 9 | Em 2012 o Centro Universitário FEI celebrou 70 anos de história e de excelência na inovação e na formação de mais de 50 mil profissionais altamente qualificados para o setor empresarial, entre Administradores, Engenheiros e Cientistas da Computação. | Sim | Sim | Verdadeira | Ambos os valores hash correspondem. |
 | 10 | Em 1999 iniciam-se as atividades da FCI (Faculdade de Informática), como o curso de Ciência da Computação. | Não | Não | Falso | Ambos os valores não correspondem. |
-
-## Código Fonte
